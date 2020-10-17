@@ -1,6 +1,8 @@
 Events
 ======
 
+Test
+
 Datepicker triggers a number of events in certain circumstances.  All events have extra data attached to the event object that is passed to any event handlers
 
 ::
